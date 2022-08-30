@@ -1,3 +1,4 @@
+# Read me
 - 👋 Hi, I’m @BrianFreiss
 - 👀 I’m interested in accounting and data analytics
 - 🌱 I’m currently learning how to do the two above
