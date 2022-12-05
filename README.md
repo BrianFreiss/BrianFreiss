@@ -1,9 +1,8 @@
 # Read me
 - 👋 Hi, I’m @BrianFreiss
 - 👀 I’m interested in accounting and data analytics
-- 🌱 I’m currently learning how to do the two above
-- 💞️ I’m looking to collaborate on anything intresting
 - 📫 How to reach me freiss0001@gmail.com
+[Resume.docx](https://github.com/BrianFreiss/BrianFreiss/files/10158652/Resume.docx)
 
 <!---
 BrianFreiss/BrianFreiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
