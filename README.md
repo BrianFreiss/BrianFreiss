@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @BrianFreiss
 - 👀 I’m interested in accounting and data analytics
 - 📫 How to reach me freiss0001@gmail.com
+
 [Resume.docx](https://github.com/BrianFreiss/BrianFreiss/files/10158652/Resume.docx)
 
 <!---
